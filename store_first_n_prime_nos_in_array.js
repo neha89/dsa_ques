@@ -28,4 +28,4 @@ function store_first_n_prime(num){
     return arr;
 }
 
-console.log(store_first_n_prime(7));
+console.log(store_first_n_prime(7)); 

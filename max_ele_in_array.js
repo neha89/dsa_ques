@@ -10,4 +10,4 @@ function find_max(arr){
     return max;
 }
 
-console.log(find_max(arr));
+console.log(find_max(arr)); 

@@ -5,4 +5,4 @@ function arr(n){
     }
     return arr;
 }
-console.log(arr(10));
+console.log(arr(10)); 

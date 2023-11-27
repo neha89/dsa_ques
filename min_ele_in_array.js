@@ -10,4 +10,4 @@ function find_min(arr){
     return min;
 }
 
-console.log(find_min(arr));
+console.log(find_min(arr)); 
